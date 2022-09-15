@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @221159cs18 - Sheroz Fayzullayev
-- 👀 I
-- 🌱 I’m currently learning at Akfa University ..
-- 💞️ I’m looking to collaborate on ...
+- 
+- 🌱 I’m currently learning at Akfa University Student
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 221159@akfauniversity.org
 
 <!---
